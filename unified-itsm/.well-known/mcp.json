@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "unified-itsm": {
+      "command": "python3",
+      "args": [
+        "itsm_mcp.py"
+      ],
+      "env": {
+        "SERVICENOW_INSTANCE": "your-instance",
+        "SERVICENOW_USER": "your-username",
+        "SERVICENOW_PASSWORD": "your-password"
+      },
+      "workingDirectory": "."
+    }
+  }
+}
