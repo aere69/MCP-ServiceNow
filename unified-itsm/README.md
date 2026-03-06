@@ -1,6 +1,6 @@
 # Unified ITSM FastMCP Server
 
-Here you go, a single **unified ITSM FastMCP server** that wires together:
+A single **unified ITSM FastMCP server** that wires together:
 
 - **Change Management**
 - **Incident & Problem Management**
